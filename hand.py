@@ -1,6 +1,6 @@
 import cv2
 import mediapipe as mp
-import time
+# import time
 
 mpDraw = mp.solutions.drawing_utils
 mpHand = mp.solutions.hands
